@@ -1,0 +1,2 @@
+rootProject.name='YTFB Player'
+include ':app'
